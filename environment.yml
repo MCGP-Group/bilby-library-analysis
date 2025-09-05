@@ -1,0 +1,35 @@
+name: gw_research_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.21
+  - scipy>=1.7
+  - matplotlib>=3.5
+  - pandas>=1.3
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - notebook
+  - h5py
+  - astropy
+  - corner
+  - seaborn
+  - plotly
+  - tqdm
+  - pytest
+  - black
+  - flake8
+  - mypy
+  - pre-commit
+  - pip
+  - pip:
+    - bilby>=2.0
+    - gwpy>=3.0
+    - pycbc>=2.0
+    - lalsuite
+    - pesummary
+    - dynesty
+    - emcee
+    - ultranest

@@ -1,0 +1,3 @@
+[submodule "bilby/bilby"]
+	path = bilby/bilby
+	url = git@github.com:thisismeamir/bilby.git

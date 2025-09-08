@@ -1,6 +1,8 @@
-# gw_research
+# Bilby Library Analysis
 
-This is a research template for gravitational wave analysis using the Bilby package.
+In this repository we explore Bilby library and provide instructions, findings, and implementations that would help everyone get a better glance on Bilby project.
+
+It is recommended that before studying this library one reads the documentation of Bilby itself.
 
 ## Directory Structure
 - notebooks/: Jupyter Notebooks for analysis and visualizations.
